@@ -1,0 +1,60 @@
+/* body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  color: #333;
+}
+.checkbox-group {
+  margin-bottom: 15px;
+}
+.checkbox-group label {
+  margin-right: 10px;
+}
+#passwordLength {
+  width: 100%;
+  margin-bottom: 15px;
+}
+#generatedPassword {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+button:hover {
+  background-color: #45a049;
+} */
+#recentPasswords {
+  margin-top: 20px;
+  display: none;
+}
+#recentPasswords ul {
+  list-style-type: none;
+  padding: 0;
+}
+#recentPasswords li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
